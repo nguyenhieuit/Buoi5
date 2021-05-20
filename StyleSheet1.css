@@ -1,0 +1,24 @@
+﻿body { 
+    background-color: aquamarine
+}
+#lbl_output {
+    margin-left: 300px;
+    font-size: 60px;
+    color: red;
+
+}
+#Button1{
+    margin-left: 200px;
+    color:chartreuse;
+    font-size: 40px;
+}
+#Button2 {
+    margin-left: 400px;
+    color: chartreuse;
+    font-size: 40px;
+}
+#Button3 {
+    margin-left: 400px;
+    color: chartreuse;
+    font-size: 40px;
+}
